@@ -1,0 +1,14 @@
+{
+  "name": "web-crawler",
+  "version": "1.0.0",
+  "description": "web crawler using nodejs",
+  "main": "app.js",
+  "author": "shivam gupta",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.11.0",
+    "request": "^2.83.0"
+  }
+}
