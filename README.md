@@ -12,3 +12,4 @@ leave input blank to get worldwide tranding hashtag
 or
 
 Enter a country name like india,chile,france,canada etc to get hashtag by country
+# parses top-trending hashtags via country names.
