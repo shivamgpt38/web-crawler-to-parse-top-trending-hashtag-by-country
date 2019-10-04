@@ -1,16 +1,33 @@
-# web-crawler-to-parse-top-trending-hashtag-by-country
-  Simple terminal app to find top trending hashtags.
 
--Clone the repo https://github.com/shivamgpt38/web-crawler-to-parse-top-trending-hashtag-by-country.git
+# Web Crawler to fetch trending #hashtags
 
--Run npm install .
+This app lets you find hashtags that are trending worldwide or by a specific country.
 
--Node app.js.
+## Installation
 
--Leave input blank to get worldwide trending hashtags.
+Clone the repository from [here](https://github.com/shivamgpt38/web-crawler-to-parse-top-trending-hashtag-by-country).
 
- Or
+Open the cloned repository directory and then install packages required by the app using the command below
 
-Enter a country name like india,chile,france,canada etc to get hashtag by country
-# parses top-trending hashtags via country names.
+```sh
+npm run install
+```
+
+## Usage
+
+Run this app using following command
+
+```sh
+node app.js
+```
+
+### To fetch trending hashtags by country  :city_sunrise:
+
+On the input prompt Enter a country name like india, chile, france, canada, etc.
+This will fetch trending hashtags for that country.
+
+### To fetch tending hashtags worldwide  :earth_americas:
+
+Leave the input prompt blank and press ENTER.
+This will fetch trending hashtags worldwide.
 
