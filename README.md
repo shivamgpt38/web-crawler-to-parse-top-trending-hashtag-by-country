@@ -1,3 +1,4 @@
+
 # Web Crawler to fetch trending #hashtags
 
 This app lets you find hashtags that are trending worldwide or by a specific country.
@@ -29,3 +30,4 @@ This will fetch trending hashtags for that country.
 
 Leave the input prompt blank and press ENTER.
 This will fetch trending hashtags worldwide.
+
