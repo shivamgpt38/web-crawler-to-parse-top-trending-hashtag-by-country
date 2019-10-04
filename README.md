@@ -11,4 +11,6 @@
 
  Or
 
--Enter a country name like India, Chile, France, Canada...etc to get hashtag by country.
+Enter a country name like india,chile,france,canada etc to get hashtag by country
+# parses top-trending hashtags via country names.
+
